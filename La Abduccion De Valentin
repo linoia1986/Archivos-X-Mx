@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Caso: Desaparición de Frederick Valentich - ARCHIVOS X MX</title>
+  <style>
+    body {
+      background-color: #0d1117;
+      color: #e6edf3;
+      font-family: Arial, sans-serif;
+      margin: 40px;
+    }
+    article {
+      background-color: #161b22;
+      border: 1px solid #30363d;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px #00ffcc44;
+    }
+    h2 {
+      color: #00ffcc;
+    }
+    em {
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+<article>
+  <h2>👽 Caso: Desaparición de Frederick Valentich</h2>
+  <p><strong>Fecha:</strong> 21 de octubre de 1978</p>
+  <p><strong>Lugar:</strong> Estrecho de Bass, Australia</p>
+  <p>
+    Frederick Valentich, un joven piloto australiano, desapareció misteriosamente mientras sobrevolaba el estrecho de Bass. 
+    Antes de perder contacto, informó a la torre de control sobre un objeto volador no identificado que lo estaba siguiendo y "jugando con él".
+  </p>
+  <p>
+    En su última transmisión, describió una nave metálica con luces verdes que se desplazaba a gran velocidad. 
+    Sus palabras finales fueron: <em>"No es una aeronave..."</em> antes de que su señal se cortara repentinamente.
+  </p>
+  <p>
+    La búsqueda no logró encontrar restos del avión ni señales del piloto, y el caso sigue siendo uno de los más inquietantes en los archivos de aviación australiana.
+  </p>
+  <p><em>Autor: Equipo de investigación ARCHIVOS X MX</em></p>
+</article>
+</body>
+</html>
